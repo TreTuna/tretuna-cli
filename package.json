@@ -1,0 +1,7 @@
+{
+  "name": "tretuna-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tre Ammatuna <tre@tretuna.com>",
+  "license": "MIT"
+}
